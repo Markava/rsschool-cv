@@ -45,6 +45,7 @@ function sumTriangularNumbers(n) {
 **Work experience:** 
 * Work experience 1
 * Work experience 2  
+* Work experience 3 
 
 
 ## Languages
